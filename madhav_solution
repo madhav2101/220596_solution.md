@@ -1,0 +1,66 @@
+# Details
+
+Rename this file in the format `yourRollNumber_solution.md` (example, `220000_solution.md`) and create a pull request in the parent repository on github.
+
+
+## Your zeroth approach below
+
+Reasoning - %%% just followed what was written and found the answer,by running man in ubuntu %%%
+
+```
+%%% What manual page do you want?
+For example, try 'man man' %%%
+```
+
+---
+
+## Your first approach below (first.txt)
+
+Reasoning - %%% there is a rotation decoding here the characters are shifted 19 character front so to get the original statement etiher go back 19 characters or go forward 7 characters%%%
+
+```
+%%% noicee you did crack a rotation encyption on your own.The following is a clue for the next puzzle. CLASS of that INPUT %%%
+```
+
+---
+
+## Your second approach below (strings.txt)
+
+Reasoning - %%% downloaded Lamp_stack_task.zip then used linux to find the file strings.txt by using command cd,find and unzip(used unzip to unzip Lamp_stack_task.zip...thenused cd to get to the folder of Lamp_Stack_task then used find command to get the location of strings.txt) 
+then used cat strings to read the txt file...then found the file name by using grep command which contains password...final.txt,eleven.txt and string.txt...eleven.txt is password for fourth.zip(by trial and error)  %%%
+
+```
+%%% kw4QLNylm2inErX
+DabAWF1UenBD2W
+kPVEQPc6ZN8x2jn
+g4JoMqFZyat9vd5
+ORNwuwGtKDLydge
+TqMuGims7vlJtno
+8dc2evcCSSc4kUy (password) 
+and location is Lamp_Stack_task/question_mark/Lamp_Stack/1/5/0/3%%%
+```
+
+---
+
+## Your third approach below (fourth.zip)
+
+Reasoning - %%% after unzipping and putting password used grep command to find the string of DevOps{...} %%%
+
+```
+%%% DevOps{y0ur3_4w350m3_4nd_0ne_5t3p_c1053r} %%%
+```
+
+---
+
+
+- Name :Madhav Khetan
+- Roll :220596
+- GitHub username:madhav2101
+- Discord username:madhav11#9866
+
+
+## Do not tamper below this line
+
+---
+
+Q29yZSB0ZWFtIGtvIGZha2UgZG8=
